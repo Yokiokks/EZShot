@@ -1,4 +1,4 @@
-pip install playsound
+playsound
 pyfiglet
 colorama
 PIL
@@ -7,4 +7,5 @@ datetime
 keyboard
 time
 os
+
 
