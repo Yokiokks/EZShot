@@ -1,3 +1,5 @@
+pip install --upgrade wheel
+pip install playsound
 pyfiglet
 colorama
 PIL
