@@ -1,4 +1,4 @@
-# EZShot
+# EZShot/Print
 🇺🇸
 **EzPrint is a python-based application with the function of making screenshots easier by placing the key you want to take the screenshot on, open source and still in beta.**
 
