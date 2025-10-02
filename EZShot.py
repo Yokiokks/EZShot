@@ -7,6 +7,7 @@ from colorama import Fore, Back, Style, init
 import pyfiglet
 from pyfiglet import Figlet
 import os
+import playsound
 titulo = pyfiglet.figlet_format("Ez S.hot", font = "alligator")
 #// introdução
 print(Fore.RED + titulo + Fore.RESET)
@@ -40,6 +41,7 @@ print("Aplicativo Pronto")
 while True:
     if keyboard.is_pressed(tecla):
         foto.save(f"{now} {numero}.png")
+        playsound.playsound('sound.mp3')
         print(F"foto tirada {now} {numero}")
         numero = numero + 1
         time.sleep(0.5)
