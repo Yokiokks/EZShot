@@ -1,0 +1,8 @@
+pyfiglet
+colorama
+PIL
+ImageGrab
+datetime
+keyboard
+time
+os
