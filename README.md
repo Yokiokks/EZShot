@@ -6,6 +6,37 @@
 
 🇧🇷
 **EzPrint/EZShot é um aplicativo baseado em python com a função de Fazer capturas de tela mais faceis, colocando a tecla que você queira tirar a captura de tela, em codigo aberto e ainda em beta**
+<h1 align="center" id="title">EZShot</h1>
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Install with git</p>
+
+```
+git clone https://github.com/Yokiokks/EZShot
+```
+
+<p>2. Enter project directory</p>
+
+```
+cd EZShot
+```
+
+<p>3. Install Requirements/Modules</p>
+
+```
+pip install -r requirements.txt
+```
+
+<p>4. Start Project</p>
+
+```
+Python3 EZShot.py
+```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Yokiokks/EZShot&type=Date)](https://www.star-history.com/#Yokiokks/EZShot&Date)
+
 
 # Verification
 **.ZIP**
