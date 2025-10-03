@@ -1,5 +1,4 @@
 <img align="center" height="300" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=77&fontColor=3e2a96&fontAlign=55&fontAlignY=50&rotate=5&stroke=bf1300&strokeWidth=2&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  /> 
-<img width="1366" height="612" alt="image" src="https://github.com/user-attachments/assets/a613052c-4e4a-489f-8fcf-b099077f8c25" />
 
 # EZShot/EZPrint
 🇺🇸
