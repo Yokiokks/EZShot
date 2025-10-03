@@ -10,7 +10,7 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Install with git</p>
+<p>1. Install with Git Clone</p>
 
 ```
 git clone https://github.com/Yokiokks/EZShot
