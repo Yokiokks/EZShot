@@ -1,4 +1,5 @@
 <img align="center" height="300" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=77&fontColor=3e2a96&fontAlign=55&fontAlignY=50&rotate=5&stroke=bf1300&strokeWidth=2&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  /> 
+<img width="1366" height="612" alt="image" src="https://github.com/user-attachments/assets/a613052c-4e4a-489f-8fcf-b099077f8c25" />
 
 # EZShot/EZPrint
 🇺🇸
@@ -12,9 +13,8 @@
 
 <img size="100" alt="2025-10-03_19-49-02-485520 2" src="https://github.com/user-attachments/assets/a70a2c56-9e82-4334-9d60-ff4e32f76c5d"/>
 <img size="100" alt="2025-10-03_19-49-02-485520 3" src="https://github.com/user-attachments/assets/c824c0c2-6711-4cc0-88df-966f46935b86"/>
-
 <h2>🛠️ Installation Steps:</h2>
-
+<img alt="image" src="https://img.shields.io/badge/Original-Author-brightgreen.svg" />
 <p>1. Install with Git Clone</p>
 
 ```
@@ -38,6 +38,8 @@ pip install -r requirements.txt
 ```
 Python3 EZShot.py
 ```
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Yokiokks/EZShot&type=Date)](https://www.star-history.com/#Yokiokks/EZShot&Date)
