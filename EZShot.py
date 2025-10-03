@@ -1,3 +1,4 @@
+
 import time
 import keyboard
 import datetime
@@ -16,7 +17,6 @@ time.sleep(1)
 #// Variaveis
 
 now = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S-%f")
-foto = ImageGrab.grab()
 numero = 1
 #// Tecla
 
@@ -39,6 +39,7 @@ os.system("cls")
 time.sleep(1)
 print("Aplicativo Pronto")
 while True:
+    foto = ImageGrab.grab()
     if keyboard.is_pressed(tecla):
         foto.save(f"{now} {numero}.png")
         playsound.playsound('sound.mp3')
