@@ -10,7 +10,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="./">
+<img src=".<img size="10" alt="2025-10-03_19-49-02-485520 2" src="https://github.com/user-attachments/assets/a70a2c56-9e82-4334-9d60-ff4e32f76c5d"/>
+/">
+<img size="10" alt="2025-10-03_19-49-02-485520 3" src="https://github.com/user-attachments/assets/c824c0c2-6711-4cc0-88df-966f46935b86"/>
+" />
+/">
 
 <h2>🛠️ Installation Steps:</h2>
 
