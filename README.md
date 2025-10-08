@@ -8,6 +8,17 @@
 **EzPrint/EZShot é um aplicativo baseado em python com a função de Fazer capturas de tela mais faceis, colocando a tecla que você queira tirar a captura de tela, em codigo aberto e ainda em beta**
 <h1 align="center" id="title">EZShot</h1>
 
+<h1 align="center" id="title">Compatibility/Compatibilidade</h1>
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> 🚫
+</div>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="38" alt="windows8 logo"  /> ✔
+</div>
+
 <h2>Project Screenshots:</h2>
 
 <img size="100" alt="2025-10-03_19-49-02-485520 2" src="https://github.com/user-attachments/assets/a70a2c56-9e82-4334-9d60-ff4e32f76c5d"/>
