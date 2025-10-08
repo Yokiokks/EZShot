@@ -49,6 +49,7 @@ pip install -r requirements.txt
 Python3 EZShot.py
 ```
 
+Or install in Packages
 
 ## Star History
 
