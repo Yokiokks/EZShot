@@ -1,4 +1,3 @@
-playsound
 pyfiglet
 colorama
 ImageGrab
@@ -6,3 +5,4 @@ datetime
 keyboard
 time
 os
+
